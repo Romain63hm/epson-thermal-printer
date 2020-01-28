@@ -503,4 +503,4 @@ class EpsonPrinter {
   };
 };
 
-module.exports = { EpsonPrinter };
+module.exports = EpsonPrinter;

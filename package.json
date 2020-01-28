@@ -28,6 +28,6 @@
       "@thiagoelg/node-printer": "^0.5.2"
     },
     "devDependencies": {
-      "@types/node": "^10.14.2"
+      "@types/node": "~8.9.4"
     }
   }
