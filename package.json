@@ -1,0 +1,33 @@
+{
+    "name": "epson-thermal-printer",
+    "version": "4.1.2",
+    "description": "Print on Epson thermal printers with NodeJS based on Klemen1337 node-thermal-printer project and @thiagoelg/node-printer",
+    "main": "epson-printer.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Romain63hm/epson-thermal-printer"
+    },
+    "keywords": [
+      "thermal printer",
+      "thermal",
+      "printer",
+      "epson",
+      "star"
+    ],
+    "author": "Romain",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Romain63hm/epson-thermal-printer/issues"
+    },
+    "homepage": "https://github.com/Romain63hm/epson-thermal-printer",
+    "dependencies": {
+      "iconv-lite": "0.5.0",
+      "pngjs": "3.3.3",
+      "unorm": "1.4.1",
+      "write-file-queue": "0.0.1",
+      "@thiagoelg/node-printer": "^0.5.2"
+    },
+    "devDependencies": {
+      "@types/node": "^10.14.2"
+    }
+  }
